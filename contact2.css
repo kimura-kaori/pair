@@ -1,0 +1,66 @@
+html{
+
+  height: 100%;
+  background: #e4eeef;
+}
+
+body {
+  height: 100%;
+}
+.contact-bg{
+  background-color: #e4eeef;
+}
+.container{
+  width: 980px;
+  margin: 0 auto;
+  min-height: 100%;
+  position: relative;
+}
+
+.contact td{
+}
+
+.contact tr{
+  height: 10rem;
+  padding: 10px;
+}
+
+.contact th{
+  background-color: white;
+  height: 1rem;
+  width: 250px;
+  color: #4D4D4D;
+  text-align: right;
+
+}
+
+.essential{
+  background: #c10811;
+    color: #fafafa;
+    font-size: 12px;
+    padding: 0 10px;
+    font-weight: normal;
+    margin-left: 10px;
+}
+.input_size{
+  width: 380px;
+}
+
+.submit{
+  width: 45%;
+  margin-left: 250px;
+}
+
+.content-form{
+  margin-right: 2rem;
+}
+
+.contact-submit{
+  font-size: 1rem;
+  background-color: #008B8B;
+  text-align: center;
+  padding: 10px;
+}
+.contact-submit:hover{
+  opacity: 0.5;
+}
